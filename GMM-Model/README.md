@@ -2,10 +2,6 @@
 
 This project generates a synthetic two-dimensional dataset using Gaussian distributions and performs clustering using the K-Means algorithm in R. It also visualizes the generated dataset, clustered output, cluster distribution, and feature histogram through multiple plots.
 
-> **Note:** This project focuses on dataset generation, clustering, and visualization. It serves as a foundation for implementing Gaussian Mixture Models (GMM) and the Expectation-Maximization (EM) algorithm in future work.
-
----
-
 ## Features
 
 - Generate a synthetic 2D Gaussian dataset
